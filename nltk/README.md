@@ -1,6 +1,6 @@
 # RabbitMQ Example
 
-This example extends the ideas presented in the [first example](#) to run a work flow of NLTK services (sentence spitter, tokenizer, and part of speech tagger) on a sample BioASQ data file. We will also have a service that combines the text for all snippets into a single string, and an *output* service that writes files to disk. 
+This example extends the ideas presented in the [first example](https://github.com/CMU-11-791/RabbitMQ-Examples/tree/master/intro) to run a work flow of NLTK services (sentence spitter, tokenizer, and part of speech tagger) on a sample BioASQ data file. We will also have a service that combines the text for all snippets into a single string, and an *output* service that writes files to disk. 
 
 | Service | Description |
 |---|---|
