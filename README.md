@@ -2,9 +2,9 @@
 
 [RabbitMQ](https://www.rabbitmq.org) is a light-weight and easy to use [message broker](https://en.wikipedia.org/wiki/Message_broker) that we will use to exchange JSON messages between services.
 
-1. [Introduction]() A quick introduction to RabbitMQ message queues.
-1. [NLTK]() A pipeline of NLTK services
-1. [Broadcast]() An example of how to blast a message to all listeners.
+1. [Introduction](https://github.com/CMU-11-791/RabbitMQ-Examples/tree/master/intro) A quick introduction to RabbitMQ message queues.
+1. [NLTK](https://github.com/CMU-11-791/RabbitMQ-Examples/tree/master/nltk) A pipeline of NLTK services
+1. [Broadcast](https://github.com/CMU-11-791/RabbitMQ-Examples/tree/master/broadcast) An example of how to blast a message to all listeners.
 
 ## Notes
 
